@@ -15,7 +15,7 @@ A simple and responsive Temperature Converter built with **HTML**, **CSS**, and 
 
 ## 🔗 Live Site
 
-👉 [View Live](https://jaikumar992.github.io/Temperature-converter/)  
+👉 [View Live](https://jaikumar992.github.io/Temperature_converter/)  
 > (Replace with your actual GitHub Pages live link if different.)
 
 ---
