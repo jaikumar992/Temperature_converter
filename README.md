@@ -7,7 +7,7 @@ A simple and responsive Temperature Converter built with **HTML**, **CSS**, and 
 
 ## 📸 Demo
 
-![Temperature Converter Demo](./Temperature_converter/images/gif.gif)
+![Temperature Converter Demo](images/gif.gif)
 
 > ⚠️ Make sure the GIF path is correct or upload it to your repo inside a `demo/` or `assets/` folder.
 
