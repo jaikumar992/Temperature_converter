@@ -1,4 +1,4 @@
-![Portfolio Demo]()
+
 # 🌡️ Temperature Converter Website
 
 A simple and responsive Temperature Converter built with **HTML**, **CSS**, and **JavaScript**. It allows users to convert temperatures between **Celsius** and **Fahrenheit**, and displays the **live date and time**.
@@ -15,7 +15,7 @@ A simple and responsive Temperature Converter built with **HTML**, **CSS**, and 
 
 ## 🔗 Live Site
 
-👉 [View Live](https://jaikumar992.github.io/temperature-converter/)  
+👉 [View Live](https://jaikumar992.github.io/Temperature-converter/)  
 > (Replace with your actual GitHub Pages live link if different.)
 
 ---
